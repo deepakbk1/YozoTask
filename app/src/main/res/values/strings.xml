@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidTaskYozo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty_list">oops, No Data Found.</string>
+    <string name="loading">please wait…</string>
+    <string name="name">Deepak Putohit</string>
+    <string name="home">Home</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_company">Product Company</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_error">Error in UpdateDate</string>
+</resources>
